@@ -1,0 +1,12 @@
+C:\Users\Helio\documents\visual studio 2013\Projects\LivroCaixa\LivroCaixa\bin\LivroCaixa.dll.config
+C:\Users\Helio\documents\visual studio 2013\Projects\LivroCaixa\LivroCaixa\bin\LivroCaixa.dll
+C:\Users\Helio\documents\visual studio 2013\Projects\LivroCaixa\LivroCaixa\bin\LivroCaixa.pdb
+C:\Users\Helio\documents\visual studio 2013\Projects\LivroCaixa\LivroCaixa\obj\Debug\LivroCaixa.dll
+C:\Users\Helio\documents\visual studio 2013\Projects\LivroCaixa\LivroCaixa\obj\Debug\LivroCaixa.pdb
+C:\Users\lucas\Downloads\LivroCaixa\LivroCaixa\bin\LivroCaixa.dll.config
+C:\Users\lucas\Downloads\LivroCaixa\LivroCaixa\bin\LivroCaixa.dll
+C:\Users\lucas\Downloads\LivroCaixa\LivroCaixa\bin\LivroCaixa.pdb
+C:\Users\lucas\Downloads\LivroCaixa\LivroCaixa\obj\Debug\LivroCaixa.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\LivroCaixa\LivroCaixa\obj\Debug\LivroCaixa.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\LivroCaixa\LivroCaixa\obj\Debug\LivroCaixa.dll
+C:\Users\lucas\Downloads\LivroCaixa\LivroCaixa\obj\Debug\LivroCaixa.pdb
